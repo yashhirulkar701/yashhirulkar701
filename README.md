@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **OpenShift Container Platform**
 
-- 📝 I regularly write articles on [https://yashhirulkar701.medium.com/](https://yashhirulkar701.medium.com/)
+- 📝 I regularly write articles on **https://yashhirulkar701.medium.com/**
 
 - 💬 Ask me about **DevOps and Cloud**
 

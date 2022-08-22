@@ -29,4 +29,14 @@
 <a href="https://www.sonarqube.org" target="_blank" rel="noreferrer"> <img src="https://github.com/get-icon/geticon/blob/master/icons/sonarqube.svg" alt="go" width="70" height="70"/> </a> 
 <a href="https://www.datree.io" target="_blank" rel="noreferrer"> <img src="https://github.com/cncf/landscape/blob/master/hosted_logos/datree%20logo%20Tall%20-%20color.svg" alt="go" width="60" height="60"/> </a></p>
 
+## 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [PACKER](https://faun.pub/what-is-packer-badf5a935641)
+- [GUI Based Application inside Docker Container](https://faun.pub/gui-based-application-inside-docker-container-fb4fd273e768)
+- [Launch WordPress Application with MySQL Database in K8S cluster on AWS using Ansible](https://faun.pub/launch-wordpress-application-with-mysql-database-in-k8s-cluster-on-aws-using-ansible-1b941d571c1f)
+- [Elastic Storage in Hadoop using Logical Volume Management](https://faun.pub/elastic-storage-in-hadoop-using-logical-volume-management-e8d062f15466)
+- [High Availability Architecture with AWS CLI](https://faun.pub/high-availability-architecture-with-aws-cli-fbe5bd352a30)
+<!-- BLOG-POST-LIST:END -->
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashhirulkar701&show_icons=true&locale=en&layout=compact" alt="yashhirulkar701" /></p>

@@ -32,7 +32,7 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [PACKER](https://faun.pub/what-is-packer-badf5a935641)
+- [What is Packer](https://faun.pub/what-is-packer-badf5a935641)
 - [GUI Based Application inside Docker Container](https://faun.pub/gui-based-application-inside-docker-container-fb4fd273e768)
 - [Launch WordPress Application with MySQL Database in K8S cluster on AWS using Ansible](https://faun.pub/launch-wordpress-application-with-mysql-database-in-k8s-cluster-on-aws-using-ansible-1b941d571c1f)
 - [Elastic Storage in Hadoop using Logical Volume Management](https://faun.pub/elastic-storage-in-hadoop-using-logical-volume-management-e8d062f15466)

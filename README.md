@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at **Tata Consultancy Services**
 
-- 🌱 I’m currently learning **OpenShift Container Platform**
+- 🌱 I’m currently learning **Microsoft Azure**
 
 - 📝 I regularly write articles on **https://yashhirulkar701.medium.com/**
 

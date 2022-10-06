@@ -33,7 +33,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Provisioning infrastructure on AWS with Gitlab using Gitlab managed terraform state](https://yashhirulkar701.medium.com/d06c13c9efd1)
-- [What, Why and How Terragrunt ?]([https://faun.pub/elastic-storage-in-hadoop-using-logical-volume-management-e8d062f15466](https://yashhirulkar701.medium.com/what-and-why-terragrunt-105e06194c7c))
+- [What, Why and How Terragrunt ?](https://yashhirulkar701.medium.com/what-and-why-terragrunt-105e06194c7c))
 - [What is Packer](https://faun.pub/what-is-packer-badf5a935641)
 - [GUI Based Application inside Docker Container](https://faun.pub/gui-based-application-inside-docker-container-fb4fd273e768)
 - [Launch WordPress Application with MySQL Database in K8S cluster on AWS using Ansible](https://faun.pub/launch-wordpress-application-with-mysql-database-in-k8s-cluster-on-aws-using-ansible-1b941d571c1f)

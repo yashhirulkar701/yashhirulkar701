@@ -1,7 +1,7 @@
 <h1 align="center">Hey There👋, I'm Yash Hirulkar</h1>
 <h3 align="center">Software Enthusiast, Passionate, Dedicated Blogger & DevOps Engineer</h3>
 
-- 🔭 I’m currently working at **Tata Consultancy Services**
+- 🔭 I’m currently working at **Fiftyfive Technologies**
 
 - 🌱 I’m currently learning **Microsoft Azure**
 
